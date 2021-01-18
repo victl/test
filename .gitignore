@@ -1,0 +1,54 @@
+# bazel directories
+bazel-*
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# vim swp
+*.swp
+*.swo
+*.swn
+*.swm
+*.swl
+*.swk
+*.swj
+#
+compile_commands.json
+
+#cscops files
+cscope.*
+
+# Python temporary files
+*.pyc
+
+# vscode
+.vscode
